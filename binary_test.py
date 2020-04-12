@@ -1,4 +1,4 @@
-from binary import binToDec, decToBin
+from bin.binary import binToDec, decToBin
 
 def main():
 	arr = [1,1,0,1,0,0,0,1,1]

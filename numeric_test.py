@@ -1,4 +1,4 @@
-from numeric import gcd
+from bin.numeric import gcd
 
 def main():
     gcd_test = gcd(5,10)
