@@ -88,3 +88,11 @@ class Linked_list:
             string += " --> "
         string += "*"
         return string
+
+class Bin_node:
+    def __init__(self, data, left=None, right=None):
+        self.left_ = left
+        self.right_ = right
+        self.data_ = data
+    
+
